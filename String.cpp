@@ -1,3 +1,4 @@
+//String class implementation
 #include<iostream>
 #include<cstring>
 using namespace std;
